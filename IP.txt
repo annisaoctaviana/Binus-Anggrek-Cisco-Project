@@ -1,0 +1,56 @@
+Lantai 1
+Total Device 50
+Network Addres	: 10.20.30.6/26
+Usable IP	: 192.10.30.7/26
+			- 192.10.30.69/26 
+Broadcast Addres: 192.10.30.70/26
+
+Lantai 2
+Total Device 67
+Network Addres	: 10.20.29.132/25
+Usable IP	: 192.10.28.133/25
+			- 192.10.30.4/25 
+Broadcast Addres: 192.10.30.5/25
+
+Lantai 3
+Total Device 58
+Network Addres	: 10.20.29.67/26
+Usable IP	: 192.10.28.68/26
+			- 192.10.29.130/26 
+Broadcast Addres: 192.10.29.131/26
+
+Lantai 4
+Total Device 70
+Network Addres	: 10.20.28.193/25
+Usable IP	: 192.10.28.194/25
+			- 192.10.29.65/25 
+Broadcast Addres: 192.10.29.66/25
+
+Lantai 5
+Total Device 53
+Network Addres	: 10.20.28.129/26
+Usable IP	: 192.10.28.130/26
+			- 192.10.28.191/26 
+Broadcast Addres: 192.10.28.192/26
+
+Lantai 6
+Total Device 924
+Network Addres	: 10.20.20.0/22
+Usable IP	: 192.10.20.1/22
+			- 192.10.23.254/22 
+Broadcast Addres: 192.10.23.255/22
+
+
+Lantai 7
+Total Device 634
+Network Addres	: 10.20.24.0/22
+Usable IP	: 192.10.24.1/22
+			- 192.10.27.254/22 
+Broadcast Addres: 192.10.27.255/22
+
+Lantai 8
+Total Device 82
+Network Addres	: 10.20.28.0/25
+Usable IP	: 192.10.28.1/25
+			- 192.10.28.127/25 
+Broadcast Addres: 192.10.28.128/25
